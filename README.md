@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ViWaSe
+- 👋 Hi, I’m @ViWa
 - 👀 I’m interested in Hardware Programming
 - 🌱 I’m currently learning Python
 
